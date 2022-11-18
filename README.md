@@ -3,13 +3,11 @@
 
 > Status: Em aprendizagem
 
-## Aula 02: 
+## Aula 03: 
 
-#### No Django Admin, criamos a usuária Ana, com permissão de manter os recursos de Matrículas, como criar, ler e atualizar; e o usuário Marco, com permissão para manter os recursos de Alunos, podendo criar, ler e atualizar;
+#### Vimos como limitar as ações de um ViewSet;
 
-#### Configuramos o Django Rest para utilizar as permissões do Django Admin e testamos as permissões no Postman;
-
-#### Melhoramos a qualidade do nosso código removendo o código duplicado das views.
+#### Aprendemos como limitar a quantidade de requisições de um usuário anônimo.
 
 <div align=center>
   <h4>Curso, by #Alura</h4>
