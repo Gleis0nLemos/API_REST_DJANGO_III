@@ -3,13 +3,13 @@
 
 > Status: Em aprendizagem
 
-## Aula 01: 
+## Aula 02: 
 
-#### Carregamos o projeto base local e executamos o arquivo seed.py, para criar alunos e cursos;
+#### No Django Admin, criamos a usuária Ana, com permissão de manter os recursos de Matrículas, como criar, ler e atualizar; e o usuário Marco, com permissão para manter os recursos de Alunos, podendo criar, ler e atualizar;
 
-#### Entendemos que no Django Rest Framework existem várias formas e versionar a API;
+#### Configuramos o Django Rest para utilizar as permissões do Django Admin e testamos as permissões no Postman;
 
-#### Vimos na prática como versionar a API com Query Parameter Versioning.
+#### Melhoramos a qualidade do nosso código removendo o código duplicado das views.
 
 <div align=center>
   <h4>Curso, by #Alura</h4>
