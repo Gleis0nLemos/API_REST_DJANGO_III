@@ -3,11 +3,11 @@
 
 > Status: Em aprendizagem
 
-## Aula 03: 
+## Aula 04: 
 
-#### Vimos como limitar as ações de um ViewSet;
+#### Aprendemos o que é o modelo de maturidade de Richardson e seus níveis;
 
-#### Aprendemos como limitar a quantidade de requisições de um usuário anônimo.
+#### Incluímos o cabeçalho Location quando criamos um novo curso.
 
 <div align=center>
   <h4>Curso, by #Alura</h4>
