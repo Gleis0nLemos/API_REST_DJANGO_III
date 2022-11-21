@@ -3,11 +3,11 @@
 
 > Status: Em aprendizagem
 
-## Aula 04: 
+## Aula 05: 
 
-#### Aprendemos o que é o modelo de maturidade de Richardson e seus níveis;
+#### Entendemos a importância da política de mesma origem e como compartilhar recursos de origens diferentes configurando o CORS;
 
-#### Incluímos o cabeçalho Location quando criamos um novo curso.
+#### Configuramos o CORS do Django Rest e integramos a API Django Rest com uma aplicação React.
 
 <div align=center>
   <h4>Curso, by #Alura</h4>
